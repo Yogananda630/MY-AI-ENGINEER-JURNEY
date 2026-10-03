@@ -3,12 +3,12 @@
 </p>
 
 
-# 🤖 AI Engineer Journey
+#                                                           🤖 AI Engineer Journey
 
 My personal journey of learning Artificial Intelligence from fundamentals to advanced AI engineering.
 
-🐍 Python • 🤖 Machine Learning • 🧠 Deep Learning • ✨ Generative AI
-
+                                    🐍 Python • 🤖 Machine Learning • 🧠 Deep Learning • ✨ Generative AI
+---
 Welcome to my AI Engineer learning repository.
 
 This repository documents my journey of learning Artificial Intelligence from the basics to advanced concepts. I created this repository to organize everything I learn, practice concepts through code, build AI projects, improve my problem-solving skills, and develop practical AI engineering skills.
