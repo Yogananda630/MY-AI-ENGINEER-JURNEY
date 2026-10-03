@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ai-journey-banner.png" alt="MY AI JOURNEY" width="100%">
+</p>
+
 \# 🤖 MY AI ENGINEER JOURNEY
 
 
