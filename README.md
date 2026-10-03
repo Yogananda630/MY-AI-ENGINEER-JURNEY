@@ -3,9 +3,9 @@
 </p>
 
 
-#                                                           🤖 AI Engineer Journey
+                                                          #🤖 AI Engineer Journey
 
-My personal journey of learning Artificial Intelligence from fundamentals to advanced AI engineering.
+                      My personal journey of learning Artificial Intelligence from fundamentals to advanced AI engineering.
 
                                     🐍 Python • 🤖 Machine Learning • 🧠 Deep Learning • ✨ Generative AI
 ---
