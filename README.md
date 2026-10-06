@@ -128,6 +128,4 @@ MY-AI-ENGINEER-JURNEY/
 ├── 19_AI_Agents/
 │
 ├── 20_MLOps/
-├── 21_AI_Projects/
-├── 22_Interview_Preparation/
-└── 23_Daily_Log/
+
