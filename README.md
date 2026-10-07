@@ -2,269 +2,130 @@
   <img src="assets/ai-journey-banner.png" alt="MY AI JOURNEY" width="100%">
 </p>
 
-\# 🤖 MY AI ENGINEER JOURNEY
 
+                                                          #🤖 AI Engineer Journey
 
+                      My personal journey of learning Artificial Intelligence from fundamentals to advanced AI engineering.
 
-\### Artificial Intelligence • Machine Learning • Deep Learning • Generative AI • AI Engineering
+                                    🐍 Python • 🤖 Machine Learning • 🧠 Deep Learning • ✨ Generative AI
 
+Welcome to my AI Engineer learning repository.
 
+This repository documents my journey of learning Artificial Intelligence from the basics to advanced concepts. I created this repository to organize everything I learn, practice concepts through code, build AI projects, improve my problem-solving skills, and develop practical AI engineering skills.
 
-> Learn • Practice • Build • Document • Improve
+---
 
-
-
-\---
-
-
-
-\## 🚀 About This Repository
-
-
-
-Welcome to my AI Engineer learning journey.
-
-
-
-This repository documents my journey of learning Artificial Intelligence from the fundamentals to advanced AI engineering concepts.
-
-
-
-I created this repository to organize everything I learn, practice concepts through code, build projects, and track my progress consistently.
-
-
-
-My goal is to develop strong practical skills in AI and gradually learn how to build, deploy, and maintain AI-powered applications.
-
-
-
-\---
-
-
-
-\# 🧠 What I Will Learn
-
-
+# 🧠 What I Will Learn
 
 My AI journey is organized from beginner to advanced topics.
 
+## 🟢 AI & Programming Fundamentals
 
+Python for AI - Python Fundamentals - Object-Oriented Programming - File Handling - Exception Handling - Virtual Environments - Mathematics for AI - Linear Algebra - Probability - Statistics - Calculus
 
-\## 🟢 AI \& Programming Fundamentals
+## 🟢 Data & AI Libraries
 
+NumPy - Arrays - Array Operations - Broadcasting - Pandas - DataFrames - Data Cleaning - Data Analysis - Matplotlib - Data Visualization - Exploratory Data Analysis
 
+## 🟡 Machine Learning
 
-\- Python for AI
+Machine Learning Fundamentals - Features and Labels - Training and Testing - Supervised Learning - Unsupervised Learning - Regression - Classification - Clustering - Feature Engineering - Model Evaluation
 
-\- Mathematics for AI
+## 🟡 Deep Learning
 
-\- NumPy
+Neural Networks - Tensors - Activation Functions - Loss Functions - Backpropagation - Optimization - Deep Learning Fundamentals - PyTorch - Model Training - Model Evaluation
 
-\- Pandas
+## 🟠 Natural Language Processing
 
-\- Data Visualization
+Text Processing - Tokenization - Text Cleaning - Word Embeddings - Text Classification - NLP Models - Language Models
 
+## 🔴 Generative AI
 
+Generative AI Fundamentals - Transformers - Attention Mechanism - Large Language Models - Prompt Engineering - Embeddings - Vector Databases - Retrieval-Augmented Generation - AI Agents
 
-\## 🔵 Machine Learning
+## 🔴 AI Engineering
 
+LLM Applications - AI APIs - RAG Applications - AI Agents - Model Integration - AI Application Development - API Development - AI Deployment
 
+## ⚙️ MLOps & Deployment
 
-\- Machine Learning Fundamentals
+Model Deployment - Docker - Git - GitHub - CI/CD - GitHub Actions - AWS - Cloud Deployment - Model Monitoring - ML/AI Lifecycle
 
-\- Supervised Learning
+## 🚀 AI Projects
 
-\- Unsupervised Learning
+Small AI Experiments - Machine Learning Projects - Deep Learning Projects - Generative AI Applications - RAG Applications - AI Agent Projects - End-to-End AI Applications
 
-\- Model Evaluation
+---
 
-\- Feature Engineering
-
-
-
-\## 🟣 Deep Learning
-
-
-
-\- Neural Networks
-
-\- Deep Learning Fundamentals
-
-\- PyTorch
-
-\- Model Training
-
-\- Model Optimization
-
-
-
-\## 🟠 Natural Language Processing
-
-
-
-\- Text Processing
-
-\- Tokenization
-
-\- Word Embeddings
-
-\- Text Classification
-
-\- NLP Models
-
-
-
-\## 🔴 Generative AI
-
-
-
-\- Generative AI Fundamentals
-
-\- Transformers
-
-\- Large Language Models
-
-\- Prompt Engineering
-
-\- Embeddings
-
-\- Vector Databases
-
-\- Retrieval-Augmented Generation
-
-\- AI Agents
-
-
-
-\## ⚙️ AI Engineering
-
-
-
-\- MLOps
-
-\- Model Deployment
-
-\- Docker
-
-\- CI/CD
-
-\- Cloud
-
-\- Monitoring
-
-\- AI Application Development
-
-
-
-\---
-
-
-
-\# 💻 Technologies \& Tools
-
-
+# 💻 Technologies & Tools
 
 I will practice and build projects using:
 
+🐍 Python
 
+🔢 NumPy
 
-\- Python
+🐼 Pandas
 
-\- NumPy
+📊 Matplotlib
 
-\- Pandas
+🤖 Scikit-learn
 
-\- Matplotlib
+🔥 PyTorch
 
-\- Scikit-learn
+🤗 Hugging Face
 
-\- PyTorch
+🧠 LLM APIs
 
-\- Hugging Face
+🗄️ Vector Databases
 
-\- Git
+🐳 Docker
 
-\- GitHub
+🔧 Git & GitHub
 
-\- Docker
+⚙️ GitHub Actions
 
-\- AWS
+☁️ AWS
 
+---
 
-
-\---
-
-
-
-\# 📂 Repository Structure
-
-
+# 📂 Repository Structure
 
 ```text
-
 MY-AI-ENGINEER-JURNEY/
-
 │
-
 ├── README.md
-
 │
-
-├── 00\_Repository\_Guide/
-
+├── assets/
+│   └── ai-journey-banner.png
 │
-
-├── 01\_Python\_For\_AI/
-
-├── 02\_Mathematics\_For\_AI/
-
-├── 03\_NumPy/
-
-├── 04\_Pandas/
-
-├── 05\_Data\_Visualization/
-
+├── 00_Repository_Guide/
+│   ├── README.md
+│   ├── AI_Roadmap.md
+│   └── How_to_Use_This_Repository.md
 │
-
-├── 06\_Machine\_Learning\_Fundamentals/
-
-├── 07\_Supervised\_Learning/
-
-├── 08\_Unsupervised\_Learning/
-
-├── 09\_Model\_Evaluation/
-
+├── 01_Python_For_AI/
+├── 02_Mathematics_For_AI/
+├── 03_NumPy/
+├── 04_Pandas/
+├── 05_Data_Visualization/
 │
-
-├── 10\_Deep\_Learning/
-
-├── 11\_PyTorch/
-
+├── 06_Machine_Learning_Fundamentals/
+├── 07_Supervised_Learning/
+├── 08_Unsupervised_Learning/
+├── 09_Model_Evaluation/
 │
-
-├── 12\_Natural\_Language\_Processing/
-
-├── 13\_Transformers/
-
-├── 14\_Generative\_AI/
-
-├── 15\_Large\_Language\_Models/
-
-├── 16\_Prompt\_Engineering/
-
-├── 17\_Embeddings\_Vector\_Databases/
-
-├── 18\_RAG/
-
-├── 19\_AI\_Agents/
-
+├── 10_Deep_Learning/
+├── 11_PyTorch/
 │
-
-├── 20\_MLOps/
-
-├── 21\_AI\_Projects/
-
-├── 22\_Interview\_Preparation/
-
-└── 23\_Daily\_Log/
+├── 12_Natural_Language_Processing/
+├── 13_Transformers/
+├── 14_Generative_AI/
+├── 15_Large_Language_Models/
+├── 16_Prompt_Engineering/
+├── 17_Embeddings_Vector_Databases/
+├── 18_RAG/
+├── 19_AI_Agents/
+│
+├── 20_MLOps/
 
