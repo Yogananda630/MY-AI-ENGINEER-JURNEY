@@ -126,6 +126,5 @@ MY-AI-ENGINEER-JURNEY/
 ├── 17_Embeddings_Vector_Databases/
 ├── 18_RAG/
 ├── 19_AI_Agents/
-│
-├── 20_MLOps/
+
 
